@@ -1,0 +1,1 @@
+python.exe mtn2cm9rpm.py -i typea.mtn -p lj

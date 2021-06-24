@@ -1,0 +1,18 @@
+
+
+# Library methods & functions
+ceckingServo	KEYWORD2
+startingServo	KEYWORD2
+servoOn	KEYWORD2
+servoOff	KEYWORD2
+servoxlWrite 	KEYWORD2
+servomxWrite 	KEYWORD2
+servoxlRead 	KEYWORD2
+servomxRead 	KEYWORD2
+centerposXl	KEYWORD2
+centerposMx	KEYWORD2
+
+
+
+
+
